@@ -1,0 +1,19 @@
+{
+  "name": "cuso_node",
+  "version": "1.0.0",
+  "description": "Curso para aprender Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vini-Vini-Vish/Curso-de-Node.js-Para-Completos-Iniciantes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vini-Vini-Vish/Curso-de-Node.js-Para-Completos-Iniciantes/issues"
+  },
+  "homepage": "https://github.com/Vini-Vini-Vish/Curso-de-Node.js-Para-Completos-Iniciantes#readme"
+}
