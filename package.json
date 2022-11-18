@@ -4,7 +4,8 @@
   "description": "Curso para aprender Node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Vini-Vini-Vish/Curso-de-Node.js-Para-Completos-Iniciantes/issues"
   },
-  "homepage": "https://github.com/Vini-Vini-Vish/Curso-de-Node.js-Para-Completos-Iniciantes#readme"
+  "homepage": "https://github.com/Vini-Vini-Vish/Curso-de-Node.js-Para-Completos-Iniciantes#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
