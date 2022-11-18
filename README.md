@@ -7,7 +7,7 @@ Curso para aprender Node
 - npm init
   criando package JSON
 
-- start:dev
+- npm run start:dev
   foi criado um script no package.js para rodar o projeto
 
 - npm install
@@ -21,3 +21,5 @@ Curso para aprender Node
 
 - npm install nodemon --save-dev
   utilizado somente durante o desenvolvimento
+
+- npm install express
