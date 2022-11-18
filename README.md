@@ -16,6 +16,7 @@ Curso para aprender Node
 ## Dependencias utilizadas
 
 - node
+- mongoDB
 
 # Intalação por comando
 
@@ -23,3 +24,9 @@ Curso para aprender Node
   utilizado somente durante o desenvolvimento
 
 - npm install express
+  criação de servidor agil
+
+- npm install mongoose
+  faz conexão com o mongodb
+
+- npm install dotenv
