@@ -13,10 +13,11 @@ Curso para aprender Node
 - npm install
   instala todas as dependencias do projeto
 
-## Dependencias utilizadas
+## Programas intalados
 
 - node
 - mongoDB
+- Postman
 
 # Intalação por comando
 
