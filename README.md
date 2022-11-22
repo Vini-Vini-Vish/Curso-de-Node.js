@@ -31,3 +31,5 @@ Curso para aprender Node
   faz conexão com o mongodb
 
 - npm install dotenv
+
+- npm install ejs
